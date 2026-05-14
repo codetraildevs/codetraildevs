@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm Fidèle 
 
-<!--
-**codetraildevs/codetraildevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Software Developer | AI & Cloud Enthusiast
 
-Here are some ideas to get you started:
+I am a software developer with 5+ years of experience building scalable applications and digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- Frontend: React.js, Next.js, Tailwind CSS
+- Backend: Node.js, Express.js, NestJS
+- Database: PostgreSQL, MongoDB, MySQL
+- Cloud & DevOps: Docker, VPS, GitHub Actions
+- Mobile: Flutter
+- AI Integrations & APIs
+
+### 💼 What I Do
+- Build modern web applications
+- Backend API development
+- System architecture & deployment
+- Technical training & mentorship
+- AI-powered applications
+- Mobile Application
+
+### 🌍 Current Focus
+- SaaS Platforms
+- AI Systems
+- Training Solutions
+- Startup Development
+
+### 📫 Contact Me
+- Website: https://codebridgeacademy.com
+- Email: codetrail.dev@gmail.com
