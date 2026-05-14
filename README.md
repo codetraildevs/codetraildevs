@@ -28,4 +28,5 @@ I am a software developer with 5+ years of experience building scalable applicat
 
 ### 📫 Contact Me
 - Website: https://codebridgecademy.com
-- Email: codetrail.dev@gmail.com
+- Email: info.codebridgeacademy@gmail.com /
+ codetrail.dev@gmail.com
